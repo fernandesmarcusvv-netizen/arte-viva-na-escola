@@ -1,0 +1,8 @@
+{
+  "name": "Arte Viva na Escola",
+  "description": "An educational and fun application that encourages children and teenagers from 6 years old to practice singing, musical creation, and digital drawing, acting as a virtual art teacher.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
